@@ -1,0 +1,22 @@
+.freekphoto{
+    vertical-align:middle;
+    border-style:none;
+    margin-left: 11em;
+    border-radius: 50%;
+    width: 20em;
+    margin-top: -1em;
+}
+
+@media (max-width: 23.438em){
+    .freekphoto {
+width: 6em;
+    display: block;
+    margin-top: -52em;
+    margin-left: 15em;
+    }
+
+    .hero-info {
+        margin-top: 11em;
+    }
+
+}
